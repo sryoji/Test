@@ -1,6 +1,1 @@
-gitのテストです。
-branchのテスト
-
-from windows
-
-11:18
+my_dev:gitのテストです。
